@@ -29,6 +29,7 @@ Uses postgresql_psycopg2 for PostgreSQL.
 ---
 
 @JessSloan - Helping get it all setup, constant feedback
+
 Justin Bellefontaine & Chris Lowe - Design Suggestions
  
 
