@@ -9,7 +9,7 @@ Keep Track of all our new lifestyle change infromation. Including eventually:
  * Meal Planning
  * More stuff~!
 
-# Design Notes:
+### Design Notes:
 Color Scheme
  - Dark Grey (Text) - #052623
  - Whiteish Green (BG?) - #EDF2C2
@@ -17,14 +17,14 @@ Color Scheme
  - Darker Green - #C0D904
  - Snappy Blue - #33BEFF
 
-# Django Apps used so far
+### Django Apps used so far
  - Django-Registration
  - South (migrations)
  
-# More Notes:
+### More Notes:
 Uses postgresql_psycopg2 for PostgreSQL.
 
-# Acknowledgements
+### Acknowledgements
 
 @JessSloan - Helping get it all setup, constant feedback
 
