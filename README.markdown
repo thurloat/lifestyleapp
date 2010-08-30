@@ -3,7 +3,8 @@
 ### Purpose
 Keep Track of all our new lifestyle change infromation. Including eventually: 
 
- * Calorie Tracking and Reporting, 
+ * Calorie Tracking and Reporting _*(in progress)*_,
+ * Shared Meal and Ingredient Database _*(in progress)*_, 
  * Weight and Measurement Tracking,
  * Meal Planning
  * More stuff~!
@@ -23,4 +24,11 @@ Color Scheme
  
 # More Notes:
 Uses postgresql_psycopg2 for PostgreSQL.
+
+# Acknowledgements
+---
+
+@JessSloan - Helping get it all setup, constant feedback
+Justin Bellefontaine & Chris Lowe - Design Suggestions
  
+
