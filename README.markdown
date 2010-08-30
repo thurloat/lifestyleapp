@@ -16,3 +16,11 @@ Color Scheme
  - Light Green - #D8F279
  - Darker Green - #C0D904
  - Snappy Blue - #33BEFF
+
+# Django Apps used so far
+ - Django-Registration
+ - South (migrations)
+ 
+# More Notes:
+Uses postgresql_psycopg2 for PostgreSQL.
+ 
