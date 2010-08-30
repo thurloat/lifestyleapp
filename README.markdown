@@ -11,6 +11,7 @@ Keep Track of all our new lifestyle change infromation. Including eventually:
 
 ### Design Notes:
 Color Scheme
+
  - Dark Grey (Text) - #052623
  - Whiteish Green (BG?) - #EDF2C2
  - Light Green - #D8F279
