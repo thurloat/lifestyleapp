@@ -11,7 +11,6 @@ Keep Track of all our new lifestyle change infromation. Including eventually:
 
 # Design Notes:
 Color Scheme
----
  - Dark Grey (Text) - #052623
  - Whiteish Green (BG?) - #EDF2C2
  - Light Green - #D8F279
@@ -26,10 +25,9 @@ Color Scheme
 Uses postgresql_psycopg2 for PostgreSQL.
 
 # Acknowledgements
----
 
 @JessSloan - Helping get it all setup, constant feedback
 
-Justin Bellefontaine & Chris Lowe - Design Suggestions
+Justin & Chris - Design Suggestions
  
 
